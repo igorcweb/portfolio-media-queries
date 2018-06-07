@@ -141,7 +141,7 @@ button:hover {
 
 div.portfolio {
   display: inline-block;
-  height: 10.5rem;
+  height: 12.3rem;
   margin-right: 2rem;
   margin-bottom: 3rem;
   transition: 0.4s;
@@ -237,7 +237,7 @@ h3.image-text {
   }
 
   div.portfolio {
-    height: 13.75rem;
+    height: 11.3rem;
   }
   a.portfolio {
     margin: 0 1rem;
@@ -266,6 +266,11 @@ h3.image-text {
   img.profile {
     margin-bottom: 1rem;
   }
+
+  div.portfolio {
+    height: 13.7rem;
+  }
+
   img.game {
     width: 294px;
   }
